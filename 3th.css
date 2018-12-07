@@ -1,0 +1,140 @@
+.logo{ order:2;
+	width:92px;
+	height:31px;
+	display:inline-block;
+	justify-content: flex-start;
+	margin-left: 30px;
+}
+.nav-menu{  order:2;
+	color:blue; 
+	font-size: 22px;
+	display:inline-block;
+	margin-left:35px;
+}
+.nav-menu2{ order:2;
+	color:red;
+	font-size: 22px;
+	display:inline-block;
+	margin-left: 50px;
+	
+}
+#vaja{display:flex;
+	margin-top:40px;
+}
+
+.kalentari{margin-top:43px;
+	margin-left:30px;
+	color:white;
+	font-size:50px;
+	background-color:blue;
+	background-width:56px;
+	width:50px;
+	background-height:56px;
+}
+.tve{ margin-top:10px;
+	color:blue;
+	margin-left:30px;
+	width:53px;
+	height:17px;
+	}
+	.satauri{ 
+		margin-left:30px;
+		margin-top:30px;
+		width:570px;
+		height:17px;
+	}
+.banner{  max-width: 270px;
+	
+	height:210px;
+	width:270px;
+    display:inline-block;
+    margin-left: 20px;
+    margin-top:20px;
+}
+.lorem{ display:inline-block;
+margin-top:20px;
+width:770px;
+height:210px;
+ margin-left:20px;
+}
+.kalendari2{
+	margin-top:190px;
+	margin-left:30px;
+	color:white;
+	font-size:50px;
+	background-color:blue;
+	background-width:56px;
+	width:50px;
+	background-height:56px;
+}
+.tve2{
+	margin-top:10px;
+	color:blue;
+	margin-left:30px;
+	width:53px;
+	height:17px;
+}
+.satauri2{
+	margin-left:30px;
+		margin-top:30px;
+		width:570px;
+		height:17px;
+}
+.banner2{
+	height:210px;
+	width:270px;
+    display:inline-block;
+    margin-left: 20px;
+    margin-top:20px;
+}
+.lorem2{
+	display:inline-block;
+margin-top:20px;
+width:770px;
+height:210px;
+ margin-left:20px;
+}
+.kalendari3{
+	margin-top:190px;
+	margin-left:30px;
+	color:white;
+	font-size:50px;
+	background-color:blue;
+	background-width:56px;
+	width:50px;
+	background-height:56px;
+}
+.tve3{
+	margin-top:10px;
+	color:blue;
+	margin-left:30px;
+	width:53px;
+	height:17px;
+}
+.satauri3{
+	margin-left:30px;
+		margin-top:30px;
+		width:570px;
+		height:17px;
+}
+.banner3{
+     height:210px;
+	width:270px;
+    display:inline-block;
+    margin-left: 20px;
+    margin-top:20px;
+}
+.lorem3{
+	display:inline-block;
+margin-top:20px;
+width:770px;
+height:210px;
+ margin-left:20px;
+}
+.facebook{
+	margin-left:35px;
+	margin-top:190px;
+	height: :30px;
+	width:15px;
+	margin-bottom: 26px;
+}
