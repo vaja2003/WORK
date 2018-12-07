@@ -1,0 +1,44 @@
+
+ .logo{ order:2;
+	width:92px;
+	height:31px;
+	display:inline-block;
+	justify-content: flex-start;
+	margin-left: 30px;
+	margin-top:35px;
+}
+
+.nav-menu1{  
+	 order:2;
+	color:red;
+	font-size: 22px;
+	display:inline-block;
+	margin-left: 50px;
+	margin-top:35px;
+}
+.nav-menu2{   order:2;
+	color:blue; 
+	font-size: 22px;
+	display:inline-block;
+	margin-left:35px;
+	margin-top:35px;
+}
+#facebook{
+	
+	margin:30px 20px 25px 30px;
+}
+#youtube{
+	margin:30px 20px 25px 30px;
+}
+.maps{ 
+	margin-left:400px;
+	margin-top:30px;
+ 
+	background-color:red;
+}
+
+
+
+	
+	
+
